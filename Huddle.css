@@ -1,0 +1,146 @@
+body 
+{
+    background-color: gray;
+    line-height: 30px;
+    letter-spacing: 2px;
+}
+.container 
+{
+    height: 3040px;
+    width: 1100px;
+    margin: auto;
+    background-color: white;
+}
+
+#row2 
+{
+  
+    text-align: center;
+    box-sizing: border-box;
+}
+#row2 a 
+{
+    position: relative;
+    top: 50px;
+    border: 2px solid rgb(248, 166, 179);
+    text-decoration: none;
+    border-radius: 20px;
+    color: rgb(255, 149, 167);
+    padding: 5px 5px;
+    left: 100px;
+    transition: 3s;
+}
+#row2 a:hover 
+{
+    color: rgb(39, 0, 27);
+    background-color:rgb(241, 141, 141);
+}
+.intro
+{
+    height: 800px;
+    width: 800px;
+    position: relative;
+    top: 50px;
+    left: 100px;
+    text-align: center;
+}
+.intro h2 
+{
+    font-size: 20px;
+    font-weight: 700;
+}
+.intro p 
+{
+    width: 400px;
+    position: relative;
+    left:200px;
+    top:10px
+}
+.intro img
+{
+    position: relative;
+    right: -20px;
+    height: 800px;
+    width: 800px;
+}
+#logo1
+{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 100px;
+}
+#logo2
+{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 100px;
+}
+.text
+{
+    display: inline-block;
+    position: relative;
+    top: 80px;
+    right: -80px;
+}
+.intro .text 
+{
+    font-size: 4rem
+}
+.intro .logotext
+{
+    display: inline-block;
+    width: 100px;
+    position: relative;
+    top: 140px;
+    left: 0px;
+}
+.container-fluid
+{
+    position: relative;
+    top: 500px;
+}
+.container-fluid img
+{
+    height: 500px;
+    width: 600px;
+    position: relative;
+    right: 30px;
+}
+.div-2
+{
+    position: relative;
+    top: 100px;
+}
+#div
+{
+    position: relative;
+    text-align: left;
+    left:10px;
+}
+#div-three
+{
+    position: relative;
+    top: 30px;
+}
+.footer
+{
+    position: relative;
+    top: 570px;
+    text-align: center;
+}
+.footer a
+{
+    padding: 10px 10px;
+    border: 2px solid black;
+    text-decoration: none;
+    color:rgb(241, 141, 141);
+    border: 2px solid rgb(248, 166, 179);
+    transition: 3s;
+}
+.footer a:hover 
+{
+    color: rgb(39, 0, 27);
+    background-color:rgb(241, 141, 141);
+}
